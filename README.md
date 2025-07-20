@@ -41,7 +41,7 @@ Currently, there are two types of mounts. A clip mount and a strap mount
 
 |             Clip Mount              | Strap Mount |
 |:-----------------------------------:|:-----------:|
-| ![Clip Mount](images/clipMount.png) | ![Strap Mount](images/StrapMount.png) |
+| ![Clip Mount](images/clipmount.png) | ![Strap Mount](images/StrapMount.png) |
 
 </div>
 

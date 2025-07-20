@@ -39,9 +39,9 @@ Currently, there are two types of mounts. A clip mount and a strap mount
 
 <div align="center">
 
-| Clip Mount | Strap Mount |
-|:----------:|:-----------:|
-| ![Clip Mount](images/ClipMount.png) | ![Strap Mount](images/StrapMount.png) |
+|             Clip Mount              | Strap Mount |
+|:-----------------------------------:|:-----------:|
+| ![Clip Mount](images/clipMount.png) | ![Strap Mount](images/StrapMount.png) |
 
 </div>
 
